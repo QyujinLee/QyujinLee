@@ -34,8 +34,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel_Edge_Runtime-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-![QyujinLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=QyujinLee&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QyujinLee&layout=compact&theme=default)
